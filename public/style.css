@@ -1,3 +1,7 @@
 html, body {
   font-family: sans-serif;
 }
+
+img {
+  border: 2px solid black;
+}
